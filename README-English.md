@@ -78,4 +78,4 @@
 
 Copyright © 2022, XDeadHackerX
 
-[![Dom's Coffee Coin Can-1](https://user-images.githubusercontent.com/96599657/210484963-ee8e207f-0fa7-424b-80f9-4a6c8ee8b0d6.jpg)](<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="dominiquedt" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>)
+[![Dom's Coffee Coin Can-1](https://user-images.githubusercontent.com/96599657/210484963-ee8e207f-0fa7-424b-80f9-4a6c8ee8b0d6.jpg)](https://www.buymeacoffee.com/dominiquedt)

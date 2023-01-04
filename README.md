@@ -74,10 +74,8 @@
 
 **Si consideras que este proyecto ha sido útil, te agradecería que me apoyaras dándole una estrella a este repositorio o invitándome a un café.**
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets
-
-/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/XDeadHackerX)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/XDeadHackerX)
 
 Copyright © 2022, XDeadHackerX
 
-[!["Buy DOM A Coffee Too"](https://cdn.boymeacoffee.com/assets/homepage/onetime-support-new.png)](https://www.buymeacoffee.com/dominiquedt)]
+[!["Buy DOM A Coffee Too"](https://cdn.buymeacoffee.com/assets/homepage/onetime-support-new.png)](https://www.buymeacoffee.com/dominiquedt)]

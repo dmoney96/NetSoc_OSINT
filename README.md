@@ -78,4 +78,4 @@
 
 Copyright © 2022, XDeadHackerX
 
-[!["Buy DOM A Coffee Too"](https://www.buymeacoffee.com/dominiquedt)]
+[!["Buy DOM A Coffee Too If You Like This Fork] [![Dom's Coffee Coin Can-1](https://user-images.githubusercontent.com/96599657/210484963-ee8e207f-0fa7-424b-80f9-4a6c8ee8b0d6.jpg)](https://www.buymeacoffee.com/dominiquedt)

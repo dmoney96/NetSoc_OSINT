@@ -78,4 +78,4 @@
 
 Copyright © 2022, XDeadHackerX
 
-[!["Buy DOM A Coffee Too"](https://cdn.buymeacoffee.com/assets/homepage/onetime-support-new.png)](https://www.buymeacoffee.com/dominiquedt)]
+[!["Buy DOM A Coffee Too"](https://www.buymeacoffee.com/dominiquedt)]

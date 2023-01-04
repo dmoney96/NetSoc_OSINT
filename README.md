@@ -77,3 +77,5 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/XDeadHackerX)
 
 Copyright © 2022, XDeadHackerX
+
+[!["Buy DOM A Coffee Too"] (https://www.buymeacoffee.com/assets/img/custom_images/orange_imp.png) (https://www.buymeacoffee.com/dominiquedt)]
